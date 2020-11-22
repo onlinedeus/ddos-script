@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ SNN DOS V.1
-# by sennin666
+# by sennxn
 
 
 
