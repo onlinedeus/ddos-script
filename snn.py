@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# python 3.3.2+ SNN DOS V.1
-# by sennxn
+# python 3.3.2+ SENNINDOS V.1
+# by @sennxn
 
 
 
@@ -75,7 +75,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	SNN Dos v.1 
+	print (''' \033[92m	SENNINDOS v.1 
 	Nao me responsabilizo por erros cometidos com o meu script.
 	Usando meu script seu ip fica visivel. \n
 	usage : python3 hammer.py [-s] [-p] [-t]
