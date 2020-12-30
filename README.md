@@ -1,3 +1,3 @@
 # ddos-script
 
-Ataque de negação de serviço em servidores HostGator, Webnode e Weblink;
+Denial of service attack on servers HostGator, Webnode e Weblink;
