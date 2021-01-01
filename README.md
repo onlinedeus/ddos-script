@@ -1,3 +1,3 @@
 # ddos-script
 
-Denial of service attack on servers HostGator, Webnode e Weblink;
+Denial of service attack on servers HostGator, Webnode and Weblink;
